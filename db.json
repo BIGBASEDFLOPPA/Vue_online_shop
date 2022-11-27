@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Product 1",
+      "price": 1000,
+      "article": "T1",
+      "available": true,
+      "category": "Tent"
+    },
+    {
+      "image": "2.jpg",
+      "name": "Product 2",
+      "price": 2000,
+      "article": "T2",
+      "available": true,
+      "category": "Tent"
+    },
+    {
+      "image": "3.jpg",
+      "name": "Product 3",
+      "price": 3000,
+      "article": "T3",
+      "available": false,
+      "category": "Tent"
+    },
+    {
+      "image": "4.jpg",
+      "name": "Product 4",
+      "price": 4000,
+      "article": "T4",
+      "available": true,
+      "category": "Tent"
+    },
+    {
+      "image": "5.jpg",
+      "name": "Product 5",
+      "price": 5000,
+      "article": "T5",
+      "available": false,
+      "category": "Tent"
+    },
+    {
+      "image": "6.jpg",
+      "name": "Product 6",
+      "price": 6000,
+      "article": "T6",
+      "available": true,
+      "category": "Tent"
+    }
+  ]
+}
