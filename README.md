@@ -1,5 +1,9 @@
 # online_shop1
 
+### to display products(starting fake-server) use 
+```
+npx json-server --watch db.json
+```
 ## Project setup
 ```
 npm install
